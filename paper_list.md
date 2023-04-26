@@ -92,4 +92,13 @@
 * Wang, K., & Jacquillat, A. (2020). A Stochastic Integer Programming Approach to Air Traffic Scheduling and Operations. Operations Research, 68(5), 1375–1402. https://doi.org/10.1287/opre.2020.1985
 * Pardalos, P. M., De Koster, R., & Bekker, R. (2020). Modeling and Design of Container Terminal Operations. Operations Research, 68(3), 686–715. https://doi.org/10.1287/opre.2019.1920
 * Colini-Baldeschi, R., Cominetti, R., Mertikopoulos, P., & Scarsini, M. (2020). When is Selfish Routing Bad? The Price of Anarchy in Light and Heavy Traffic. Operations Research. https://doi.org/10.1287/opre.2019.1894
-
+* Lamorgese, L., & Mannino, C. (2019). A Noncompact Formulation for Job-Shop Scheduling Problems in Traffic Management. Operations Research, 67(6), 1586–1609. https://doi.org/10.1287/opre.2018.1837
+* Capponi, A., Dai, J. P., Liu, X., & Ying, L. (2019). Empty-Car Routing in Ridesharing Systems. Operations Research, 67(5), 1437–1452. https://doi.org/10.1287/opre.2018.1822
+* Davarnia, D., Richard, J. P., Içyüz-Ay, E., & Taslimi, B. (2019). Network Models with Unsplittable Node Flows with Application to Unit Train Scheduling. Operations Research. https://doi.org/10.1287/opre.2019.1864
+* Bimpikis, K., Candogan, O., & Saban, D. (2019). Spatial Pricing in Ride-Sharing Networks. Operations Research, 67(3), 744–769. https://doi.org/10.1287/opre.2018.1800
+* Lübbecke, E., Lübbecke, M. E., & Möhring, R. H. (2019). Ship Traffic Optimization for the Kiel Canal. Operations Research, 67(3), 791–812. https://doi.org/10.1287/opre.2018.1814
+* Bertsimas, D., Delarue, A., Jaillet, P., & Martin, S. (2019). Travel Time Estimation in the Age of Big Data. Operations Research. https://doi.org/10.1287/opre.2018.1784
+* Bertsimas, D., Jaillet, P., & Martin, S. (2019). Online Vehicle Routing: The Edge of Optimization in Large-Scale Applications. Operations Research, 67(1), 143–162. https://doi.org/10.1287/opre.2018.1763
+* Long, J., & Szeto, W. Y. (2019). Link-Based System Optimum Dynamic Traffic Assignment Problems in General Networks. Operations Research, 67(1), 167–182. https://doi.org/10.1287/opre.2018.1775
+* Acemoglu, D., Makhdoumi, A., Malekian, A., & Ozdaglar, A. (2018). Informational Braess’ Paradox: The Effect of Information on Traffic Congestion. Operations Research, 66(4), 893–917. https://doi.org/10.1287/opre.2017.1712
+* 
