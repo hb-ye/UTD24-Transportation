@@ -101,4 +101,4 @@
 * Bertsimas, D., Jaillet, P., & Martin, S. (2019). Online Vehicle Routing: The Edge of Optimization in Large-Scale Applications. Operations Research, 67(1), 143–162. https://doi.org/10.1287/opre.2018.1763
 * Long, J., & Szeto, W. Y. (2019). Link-Based System Optimum Dynamic Traffic Assignment Problems in General Networks. Operations Research, 67(1), 167–182. https://doi.org/10.1287/opre.2018.1775
 * Acemoglu, D., Makhdoumi, A., Malekian, A., & Ozdaglar, A. (2018). Informational Braess’ Paradox: The Effect of Information on Traffic Congestion. Operations Research, 66(4), 893–917. https://doi.org/10.1287/opre.2017.1712
-* 
+* Correa, J. R., Harks, T., Kreuzen, V. J. C., & Matuschke, J. (2017). Fare Evasion in Transit Networks. Operations Research, 65(1), 165–183. https://doi.org/10.1287/opre.2016.1560
