@@ -33,7 +33,7 @@
 * Ou, J., Hsu, V.N. and Li, C.-L. (2010), Scheduling Truck Arrivals at an Air Cargo Terminal. Production and Operations Management, 19: 83-97. https://doi.org/10.1111/j.1937-5956.2009.01068.x
 
 
-## Manufacturing & Service Operations Management
+## Manufacturing & Service Operations Management (2022-2010)
 
 * Jin, Z., Wang, Y., Lim, Y. F., Pan, K., & Shen, Z. M. (2023). Vehicle Rebalancing in a Shared Micromobility System with Rider Crowdsourcing. Manufacturing & Service Operations Management. https://doi.org/10.1287/msom.2023.1199
 * Zhu, F., Liu, S., Wang, R., & Wang, Z. (2023). Assign-to-Seat: Dynamic Capacity Control for Selling High-Speed Train Tickets. Manufacturing & Service Operations Management. https://doi.org/10.1287/msom.2023.1188
@@ -66,8 +66,16 @@
 * He, L., Hu, Z., & Zhang, M. (2020). Robust Repositioning for Vehicle Sharing. Manufacturing & Service Operations Management, 22(2), 241–256. https://doi.org/10.1287/msom.2018.0734
 * Qi, W., Li, L., Liu, S., & Shen, Z. M. (2018). Shared Mobility for Last-Mile Delivery: Design, Operational Prescriptions, and Environmental Impact. Manufacturing & Service Operations Management, 20(4), 737–751. https://doi.org/10.1287/msom.2017.0683
 * Nasrollahzadeh, A. A., Khademi, A., & Mayorga, M. E. (2018). Real-Time Ambulance Dispatching and Relocation. Manufacturing & Service Operations Management, 20(3), 467–480. https://doi.org/10.1287/msom.2017.0649
+* Cachon, G. P., Daniels, K., & Lobel, R. (2017). The Role of Surge Pricing on a Service Platform with Self-Scheduling Capacity. Manufacturing & Service Operations Management, 19(3), 368–384. https://doi.org/10.1287/msom.2017.0618
 * He, L., Mak, H., Rong, Y., & Shen, Z. M. (2017). Service Region Design for Urban Electric Vehicle Sharing Systems. Manufacturing & Service Operations Management, 19(2), 309–327. https://doi.org/10.1287/msom.2016.0611
+* Bellos, I., Ferguson, M. K., & Toktay, L. B. (2017). The Car Sharing Economy: Interaction of Business Model Choice and Product Line Design. Manufacturing & Service Operations Management, 19(2), 185–201. https://doi.org/10.1287/msom.2016.0605
+* Broneske, G., & Wozabal, D. (2017). How Do Contract Parameters Influence the Economics of Vehicle-to-Grid? Manufacturing & Service Operations Management, 19(1), 150–164. https://doi.org/10.1287/msom.2016.0601
+* Lim, M., Mak, H., & Rong, Y. (2015). Toward Mass Adoption of Electric Vehicles: Impact of the Range and Resale Anxieties. Manufacturing & Service Operations Management, 17(1), 101–119. https://doi.org/10.1287/msom.2014.0504
+* Deshpande, V., & Arikan, M. (2012). The Impact of Airline Flight Schedules on Flight Delays. Manufacturing & Service Operations Management, 14(3), 423–440. https://doi.org/10.1287/msom.1120.0379
+* Lan, Y., Ball, M. O., & Karaesmen, I. Z. (2011). Regret in Overbooking and Fare-Class Allocation for Single Leg. Manufacturing & Service Operations Management, 13(2), 194–208. https://doi.org/10.1287/msom.1100.0316
+
 
 ## Operations Research
+
 * Chen, Q., Lei, Y., & Jasin, S. (2023). Real-Time Spatial–Intertemporal Pricing and Relocation in a Ride-Hailing Network: Near-Optimal Policies and the Value of Dynamic Pricing. Operations Research. https://doi.org/10.1287/opre.2022.2425
 * Benjaafar, S., & Shen, X. (2023). Pricing in On-Demand and One-Way Vehicle-Sharing Networks. Operations Research. https://doi.org/10.1287/opre.2023.2446
