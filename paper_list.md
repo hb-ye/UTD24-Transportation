@@ -75,7 +75,21 @@
 * Lan, Y., Ball, M. O., & Karaesmen, I. Z. (2011). Regret in Overbooking and Fare-Class Allocation for Single Leg. Manufacturing & Service Operations Management, 13(2), 194–208. https://doi.org/10.1287/msom.1100.0316
 
 
-## Operations Research
+## Operations Research (2022-2020)
 
 * Chen, Q., Lei, Y., & Jasin, S. (2023). Real-Time Spatial–Intertemporal Pricing and Relocation in a Ride-Hailing Network: Near-Optimal Policies and the Value of Dynamic Pricing. Operations Research. https://doi.org/10.1287/opre.2022.2425
 * Benjaafar, S., & Shen, X. (2023). Pricing in On-Demand and One-Way Vehicle-Sharing Networks. Operations Research. https://doi.org/10.1287/opre.2023.2446
+* Freund, D., Henderson, S. G., & Shmoys, D. B. (2016). Minimizing Multimodular Functions and Allocating Capacity in Bike-Sharing Systems. Operations Research, 70(5), 2715–2731. https://doi.org/10.1287/opre.2022.2320
+* Wu, L., Adulyasak, Y., Cordeau, J., & Wang, S. (2022). Vessel Service Planning in Seaports. Operations Research, 70(4), 2032–2053. https://doi.org/10.1287/opre.2021.2228
+* Sasso, V. D., Lamorgese, L., Mannino, C., Tancredi, A., & Ventura, P. (2022). Easy Cases of Deadlock Detection in Train Scheduling. Operations Research, 70(4), 2101–2118. https://doi.org/10.1287/opre.2022.2283
+* Luo, F., & Larson, J. (2021). A Repeated Route-then-Schedule Approach to Coordinated Vehicle Platooning: Algorithms, Valid Inequalities and Computation. Operations Research, 70(4), 2477–2495. https://doi.org/10.1287/opre.2021.2126
+* Wang, Z., Ouyang, Y., & She, R. (2022). On Solving a Class of Continuous Traffic Equilibrium Problems and Planning Facility Location Under Congestion. Operations Research, 70(3), 1465–1484. https://doi.org/10.1287/opre.2021.2213
+* Perrykkad, A., Ernst, A. T., & Krishnamoorthy, M. (2022). A Simultaneous Magnanti-Wong Method to Accelerate Benders Decomposition for the Metropolitan Container Transportation Problem. Operations Research, 70(3), 1531–1559. https://doi.org/10.1287/opre.2020.2032
+* Banerjee, S., Freund, D., & Lykouris, T. (2021). Pricing and Optimization in Shared Vehicle Systems: An Approximation Framework. Operations Research, 70(3), 1783–1805. https://doi.org/10.1287/opre.2021.2165
+* Balakrishnan, A., Mirchandani, P., & Lin, S. (2021). Crew Assignment with Duty Time Limits for Transport Services: Tight Multicommodity Models. Operations Research, 70(2), 690–714. https://doi.org/10.1287/opre.2021.2155
+* Ma, H., Fang, F., & Parkes, D. C. (2021). Spatio-Temporal Pricing for Ridesharing Platforms. Operations Research, 70(2), 1025–1041. https://doi.org/10.1287/opre.2021.2178
+* Bertsimas, D., Ng, Y. S., & Yan, J. (2021). Data-Driven Transit Network Design at Scale. Operations Research, 69(4), 1118–1133. https://doi.org/10.1287/opre.2020.2057
+* Wang, K., & Jacquillat, A. (2020). A Stochastic Integer Programming Approach to Air Traffic Scheduling and Operations. Operations Research, 68(5), 1375–1402. https://doi.org/10.1287/opre.2020.1985
+* Pardalos, P. M., De Koster, R., & Bekker, R. (2020). Modeling and Design of Container Terminal Operations. Operations Research, 68(3), 686–715. https://doi.org/10.1287/opre.2019.1920
+* Colini-Baldeschi, R., Cominetti, R., Mertikopoulos, P., & Scarsini, M. (2020). When is Selfish Routing Bad? The Price of Anarchy in Light and Heavy Traffic. Operations Research. https://doi.org/10.1287/opre.2019.1894
+
