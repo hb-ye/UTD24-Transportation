@@ -1,4 +1,4 @@
-# Journal of Operations Management (2015-2022)
+# Journal of Operations Management (2010-2022)
 
 * Naumov, S., Keith, D. R., & Sterman, J. D. (2023). Accelerating vehicle fleet turnover to achieve sustainable mobility goals. Journal of Operations Management, 69(1), 36-66. https://doi.org/10.1002/joom.1173
 * Wang, L., Rabinovich, E., & Guda, H. (2023). An analysis of operating efficiency and policy implications in last-mile transportation following Amazon's integration. Journal of Operations Management, 69(1), 9-35. https://doi.org/10.1002/joom.1172
