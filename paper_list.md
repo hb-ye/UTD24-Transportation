@@ -1,4 +1,4 @@
-# Journal of Operations Management (2010-2022)
+## Journal of Operations Management (2022-2010)
 
 * Naumov, S., Keith, D. R., & Sterman, J. D. (2023). Accelerating vehicle fleet turnover to achieve sustainable mobility goals. Journal of Operations Management, 69(1), 36-66. https://doi.org/10.1002/joom.1173
 * Wang, L., Rabinovich, E., & Guda, H. (2023). An analysis of operating efficiency and policy implications in last-mile transportation following Amazon's integration. Journal of Operations Management, 69(1), 9-35. https://doi.org/10.1002/joom.1172
@@ -8,8 +8,9 @@
 * Ta, H., Esper, T.L., & Hofer, A.R. (2018). Designing crowdsourced delivery systems: The effect of driver disclosure and ethnic similarity. Journal of Operations Management, 60, 19-33. https://doi.org/10.1016/j.jom.2018.06.001
 * Liu, C., Mak, V., & Rapoport, A. (2015). Cost-sharing in directed networks: Experimental study of equilibrium choice and system dynamics. Journal of Operations Management, 39, 31-47. https://doi.org/10.1016/j.jom.2015.07.004
 
-# Production and Operations Management
+## Production and Operations Management (2022-2010)
 
+* Logothetis, D., & Economou, A. (2023). The impact of information on transportation systems with strategic customers. Production and Operations Management, 00, 1-18. https://doi.org/10.1111/poms.13965
 * Naumov, S., & Keith, D. (2023). Optimizing the economic and environmental benefits of ride-hailing and pooling. Production and Operations Management, 32, 904-929. https://doi.org/10.1111/poms.13905
 * Shi, L., Sethi, S. P., & Çakanyıldırım, M. (2022). Promoting electric vehicles: Reducing charging inconvenience and price via station and consumer subsidies. Production and Operations Management, 31, 4333-4350. https://doi.org/10.1111/poms.13871
 * He, L., Liu, S., & Shen, Z.-J. M. (2022). Smart urban transport and logistics: A business analytics perspective. Production and Operations Management, 31, 3771-3787. https://doi.org/10.1111/poms.13775
@@ -24,9 +25,15 @@
 * Naumov, S., Keith, D.R. and Fine, C.H. (2020), Unintended Consequences of Automated Vehicles and Pooling for Urban Transportation Systems. Prod Oper Manag, 29: 1354-1371. https://doi.org/10.1111/poms.13166
 * Freund, D., Henderson, S.G. and Shmoys, D.B. (2018), Minimizing Multimodular Functions and Allocating Capacity in Bike-Sharing Systems. Prod Oper Manag, 27: 2346-2349. https://doi.org/10.1111/poms.12965
 * Mak, V., Seale, D.A., Gisches, E.J., Yang, R., Cheng, M., Moon, M. and Rapoport, A. (2018), The Braess Paradox and Coordination Failure in Directed Networks with Mixed Externalities. Prod Oper Manag, 27: 717-733. https://doi.org/10.1111/poms.12827
-* Logothetis, D., & Economou, A. (2023). The impact of information on transportation systems with strategic customers. Production and Operations Management, 00, 1-18. https://doi.org/10.1111/poms.13965
+* Manou, A., Canbolat, P.G. and Karaesmen, F. (2017), Pricing in a Transportation Station with Strategic Customers. Prod Oper Manag, 26: 1632-1645. https://doi.org/10.1111/poms.12706
+* Luo, T., Gao, L. and Akçay, Y. (2016), Revenue Management for Intermodal Transportation: The Role of Dynamic Forecasting. Prod Oper Manag, 25: 1658-1672. https://doi.org/10.1111/poms.12553
+* Chen, H., Solak, S.. Lower Cost Arrivals for Airlines: Optimal Policies for Managing Runway Operations under Optimized Profile Descent. Production and Operations Management (2014), doi 10.1111/poms.12244
+* Mak, V., Gisches, E.J. and Rapoport, A. (2015), Route vs. Segment: An Experiment on Real-Time Travel Information in Congestible Networks. Prod Oper Manag, 24: 947-960. https://doi.org/10.1111/poms.12312
+* Hu, Q. (2010), Network Game and Capacity Investment Under Market Uncertainty. Production and Operations Management, 19: 98-110. https://doi.org/10.1111/j.1937-5956.2009.01069.x
+* Ou, J., Hsu, V.N. and Li, C.-L. (2010), Scheduling Truck Arrivals at an Air Cargo Terminal. Production and Operations Management, 19: 83-97. https://doi.org/10.1111/j.1937-5956.2009.01068.x
 
-# Manufacturing & Service Operations Management
+
+## Manufacturing & Service Operations Management
 * Zhu, F., Liu, S., Wang, R., & Wang, Z. (2023b). Assign-to-Seat: Dynamic Capacity Control for Selling High-Speed Train Tickets. Manufacturing & Service Operations Management. https://doi.org/10.1287/msom.2023.1188
 * Gong, J., Greenwood, B. N., & Song, Y. (2023b). An Empirical Investigation of Ridesharing and New Vehicle Purchase. Manufacturing & Service Operations Management. https://doi.org/10.1287/msom.2022.1183
 * Agarwal, S., Mani, D., & Telang, R. (2023b). The Impact of Ride-Hailing Services on Congestion: Evidence from Indian Cities. Manufacturing & Service Operations Management. https://doi.org/10.1287/msom.2022.1158
@@ -60,6 +67,6 @@
 * He, L., Mak, H., Rong, Y., & Shen, Z. M. (2017b). Service Region Design for Urban Electric Vehicle Sharing Systems. Manufacturing & Service Operations Management, 19(2), 309–327. https://doi.org/10.1287/msom.2016.0611
 * Jin, Z., Wang, Y., Lim, Y. F., Pan, K., & Shen, Z. M. (2023b). Vehicle Rebalancing in a Shared Micromobility System with Rider Crowdsourcing. Manufacturing & Service Operations Management. https://doi.org/10.1287/msom.2023.1199
 
-# Operations Research
+## Operations Research
 * Chen, Q., Lei, Y., & Jasin, S. (2023b). Real-Time Spatial–Intertemporal Pricing and Relocation in a Ride-Hailing Network: Near-Optimal Policies and the Value of Dynamic Pricing. Operations Research. https://doi.org/10.1287/opre.2022.2425
 * Benjaafar, S., & Shen, X. (2023b). Pricing in On-Demand and One-Way Vehicle-Sharing Networks. Operations Research. https://doi.org/10.1287/opre.2023.2446
