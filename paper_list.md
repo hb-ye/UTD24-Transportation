@@ -102,3 +102,7 @@
 * Long, J., & Szeto, W. Y. (2019). Link-Based System Optimum Dynamic Traffic Assignment Problems in General Networks. Operations Research, 67(1), 167–182. https://doi.org/10.1287/opre.2018.1775
 * Acemoglu, D., Makhdoumi, A., Malekian, A., & Ozdaglar, A. (2018). Informational Braess’ Paradox: The Effect of Information on Traffic Congestion. Operations Research, 66(4), 893–917. https://doi.org/10.1287/opre.2017.1712
 * Correa, J. R., Harks, T., Kreuzen, V. J. C., & Matuschke, J. (2017). Fare Evasion in Transit Networks. Operations Research, 65(1), 165–183. https://doi.org/10.1287/opre.2016.1560
+* Jacquillat, A., & Odoni, A. R. (2015). An Integrated Scheduling and Operations Approach to Airport Congestion Mitigation. Operations Research, 63(6), 1390–1410. https://doi.org/10.1287/opre.2015.1428
+* Lamorgese, L., & Mannino, C. (2015). An Exact Decomposition Approach for the Real-Time Train Dispatching Problem. Operations Research, 63(1), 48–64. https://doi.org/10.1287/opre.2014.1327
+
+
