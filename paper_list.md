@@ -75,7 +75,7 @@
 * Lan, Y., Ball, M. O., & Karaesmen, I. Z. (2011). Regret in Overbooking and Fare-Class Allocation for Single Leg. Manufacturing & Service Operations Management, 13(2), 194–208. https://doi.org/10.1287/msom.1100.0316
 
 
-## Operations Research (2022-2016)
+## Operations Research (2022-2015)
 
 * Chen, Q., Lei, Y., & Jasin, S. (2023). Real-Time Spatial–Intertemporal Pricing and Relocation in a Ride-Hailing Network: Near-Optimal Policies and the Value of Dynamic Pricing. Operations Research. https://doi.org/10.1287/opre.2022.2425
 * Benjaafar, S., & Shen, X. (2023). Pricing in On-Demand and One-Way Vehicle-Sharing Networks. Operations Research. https://doi.org/10.1287/opre.2023.2446
