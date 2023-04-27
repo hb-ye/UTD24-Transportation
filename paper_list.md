@@ -75,7 +75,7 @@
 * Lan, Y., Ball, M. O., & Karaesmen, I. Z. (2011). Regret in Overbooking and Fare-Class Allocation for Single Leg. Manufacturing & Service Operations Management, 13(2), 194–208. https://doi.org/10.1287/msom.1100.0316
 
 
-## Operations Research (2022-2015)
+## Operations Research (2022-2010)
 
 * Chen, Q., Lei, Y., & Jasin, S. (2023). Real-Time Spatial–Intertemporal Pricing and Relocation in a Ride-Hailing Network: Near-Optimal Policies and the Value of Dynamic Pricing. Operations Research. https://doi.org/10.1287/opre.2022.2425
 * Benjaafar, S., & Shen, X. (2023). Pricing in On-Demand and One-Way Vehicle-Sharing Networks. Operations Research. https://doi.org/10.1287/opre.2023.2446
@@ -104,5 +104,20 @@
 * Correa, J. R., Harks, T., Kreuzen, V. J. C., & Matuschke, J. (2017). Fare Evasion in Transit Networks. Operations Research, 65(1), 165–183. https://doi.org/10.1287/opre.2016.1560
 * Jacquillat, A., & Odoni, A. R. (2015). An Integrated Scheduling and Operations Approach to Airport Congestion Mitigation. Operations Research, 63(6), 1390–1410. https://doi.org/10.1287/opre.2015.1428
 * Lamorgese, L., & Mannino, C. (2015). An Exact Decomposition Approach for the Real-Time Train Dispatching Problem. Operations Research, 63(1), 48–64. https://doi.org/10.1287/opre.2014.1327
-
+* Gao, Z., Qu, Y., Li, X., Long, J., & Huang, H. (2014). Simulating the Dynamic Escape Process in Large Public Places. Operations Research, 62(6), 1344–1357. https://doi.org/10.1287/opre.2014.1312
+* Akturk, M. S., Atamtürk, A., & Gürel, S. (2014). Aircraft Rescheduling with Cruise Speed Control. Operations Research, 62(4), 829–845. https://doi.org/10.1287/opre.2014.1279
+* Barnhart, C., Fearing, D., & Vaze, V. (2014). Modeling Passenger Travel and Delays in the National Air Transportation System. Operations Research, 62(3), 580–601. https://doi.org/10.1287/opre.2014.1268
+* Caprara, A., Galli, L., Stiller, S., & Toth, P. (2014). Delay-Robust Event Scheduling. Operations Research, 62(2), 274–283. https://doi.org/10.1287/opre.2014.1259
+* Nikolova, E., & Stier-Moses, N. E. (2014). A Mean-Risk Model for the Traffic Assignment Problem with Stochastic Travel Times. Operations Research, 62(2), 366–382. https://doi.org/10.1287/opre.2013.1246
+* Zhu, E., Crainic, T. G., & Gendreau, M. (2014). Scheduled Service Network Design for Freight Rail Transportation. Operations Research, 62(2), 383–400. https://doi.org/10.1287/opre.2013.1254
+* Osorio, C., & Bierlaire, M. (2013). A Simulation-Based Optimization Framework for Urban Transportation Problems. Operations Research, 61(6), 1333–1345. https://doi.org/10.1287/opre.2013.1226
+* Shu, J., Chou, M. C., Liu, Q., Teo, C., & Wang, I. (2013). Models for Effective Deployment and Redistribution of Bicycles Within Public Bicycle-Sharing Systems. Operations Research, 61(6), 1346–1359. https://doi.org/10.1287/opre.2013.1215
+* Long, J., Huang, H., Gao, Z., & Szeto, W. Y. (2013). An Intersection-Movement-Based Dynamic User Optimal Route Choice Problem. Operations Research, 61(5), 1134–1147. https://doi.org/10.1287/opre.2013.1202
+* Arikan, M., Deshpande, V., & Sohoni, M. (2013). Building Reliable Air-Travel Infrastructure Using Empirical Data and Stochastic Models of Airline Networks. Operations Research, 61(1), 45–64. https://doi.org/10.1287/opre.1120.1146
+* Sioshansi, R. (2012). OR Forum—Modeling the Impacts of Electricity Tariffs on Plug-In Hybrid Electric Vehicle Charging, Costs, and Emissions. Operations Research, 60(3), 506–516. https://doi.org/10.1287/opre.1120.1038
+* Bertsimas, D., Frankovich, M., & Odoni, A. R. (2011). Optimal Selection of Airport Runway Configurations. Operations Research, 59(6), 1407–1419. https://doi.org/10.1287/opre.1110.0956
+* Bertsimas, D., Lulli, G., & Odoni, A. R. (2011). An Integer Optimization Approach to Large-Scale Air Traffic Flow Management. Operations Research, 59(1), 211–227. https://doi.org/10.1287/opre.1100.0899
+* Balakrishnan, H., & Chandran, B. (2010). Algorithms for Scheduling Runway Operations Under Constrained Position Shifting. Operations Research, 58(6), 1650–1665. https://doi.org/10.1287/opre.1100.0869
+* Agarwal, R., & Ergun, Ö. (2010). Network Design and Allocation Mechanisms for Carrier Alliances in Liner Shipping. Operations Research, 58(6), 1726–1742. https://doi.org/10.1287/opre.1100.0848
+* Cavusoglu, H., Koh, B., & Raghunathan, S. (2010). An Analysis of the Impact of Passenger Profiling for Transportation Security. Operations Research, 58(5), 1287–1302. https://doi.org/10.1287/opre.1090.0793
 
