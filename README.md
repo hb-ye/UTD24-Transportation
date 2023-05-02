@@ -8,3 +8,9 @@ This repository maintains a (non-exaustive and subjective) list of papers in UTD
 * <a href="msom_list.md"> Manufacturing & Service Operations Management </a>
 * <a href="or_list.md"> Operations Research </a>
 --->
+
+Currently covers:
+* Journal of Operations Management
+* Production and Operations Management
+* Manufacturing & Service Operations Management
+* Operations Research
