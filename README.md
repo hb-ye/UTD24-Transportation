@@ -1,6 +1,11 @@
 # UTD24 Transportation
 
-This repository maintains a (non-exaustive and subjective) <a href="paper_list.md"> list </a> of papers in UTD24 journals that are related to transportation.
+This repository maintains a (non-exaustive and subjective) <a href="paper_list.md"> list </a> of papers in UTD24 journals that are related to transportation. It currently covers:
+* Journal of Operations Management
+* Production and Operations Management
+* Manufacturing & Service Operations Management
+* Operations Research
+
 <!---
 This repository maintains a (non-exaustive and subjective) list of papers in UTD24 journals that are related to transportation.
 * <a href="jom_list.md"> Journal of Operations Management </a>
@@ -9,8 +14,4 @@ This repository maintains a (non-exaustive and subjective) list of papers in UTD
 * <a href="or_list.md"> Operations Research </a>
 --->
 
-Currently covers:
-* Journal of Operations Management
-* Production and Operations Management
-* Manufacturing & Service Operations Management
-* Operations Research
+
